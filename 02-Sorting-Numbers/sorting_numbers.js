@@ -1,8 +1,10 @@
 //insert your pseudocode below
 /*
 here
-*/
-
+*/create list
+ascending number
+Sum
+print 
 //insert your code below
 var num;
 
